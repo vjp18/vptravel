@@ -252,32 +252,6 @@ header .icons i{
 }
 
 
-.home .controls{
-  padding:1rem;
-  border-radius: 5rem;
-  background:rgba(255, 255, 255, 0.7);
-  background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
-  position: relative;
-  top:22rem;
-  -webkit-filter: drop-shadow(5px 5px 5px #161616);
-  filter: drop-shadow(5px 5px 5px #0f0f0f);
-}
-
-.home .controls .img-btn{
-  height:2rem;
-  width:6rem;
-  display: inline-block;
-  border-radius: 15px;
-  background:rgba(0, 0, 0, 0.514);
-  cursor: pointer;
-  margin:0 .10rem;
-}
-
-.home .controls .img-btn.active{
-  background:white;
-  -webkit-filter: drop-shadow(5px 5px 5px #161616);
-  filter: drop-shadow(5px 5px 5px #0f0f0f);
-}
 
 .book .row{
   display: flex;
